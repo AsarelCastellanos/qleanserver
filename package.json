@@ -1,0 +1,18 @@
+{
+  "name": "qleanserver",
+  "version": "1.0.0",
+  "description": "A nice qlean and friendly server",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "stripe": "^5.2.0"
+  }
+}
